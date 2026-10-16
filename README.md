@@ -6,6 +6,14 @@
 > ⚠️ **Disclaimer:** All data is synthetic. QueueSight is an operations-analytics prototype. It is **not** a clinical tool and must not be used for diagnosis or treatment decisions.
 
 ---
+## QueueSight Demo
+<img width="2790" height="1234" alt="image" src="https://github.com/user-attachments/assets/02d2dba6-70fe-463a-9249-49d9d40f765f" />
+<img width="2824" height="996" alt="image" src="https://github.com/user-attachments/assets/cf7101b2-3c0d-49ed-89c0-3e6d7ba83d12" />
+<img width="2862" height="1234" alt="image" src="https://github.com/user-attachments/assets/0e799a79-a030-4b42-8a95-91bf80bbdc64" />
+<img width="2880" height="830" alt="image" src="https://github.com/user-attachments/assets/3e42dbb8-8665-4bd9-ae3c-4972fbb202de" />
+
+
+
 
 ## Table of contents
 1. [The problem](#the-problem)

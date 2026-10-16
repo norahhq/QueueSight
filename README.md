@@ -1,8 +1,8 @@
-# 🏥 QueueSight
+#  QueueSight
 
 **A hospital delay early-warning tool that answers one question: *what is likely to get delayed next, why, and what should operations examine first?***
 
-Built for **DATATHON 2026 · Track: Health · Problem 01 – The Forgotten Patient**.
+
 
 > ⚠️ **Disclaimer:** All data is synthetic. QueueSight is an operations-analytics prototype. It is **not** a clinical tool and must not be used for diagnosis or treatment decisions.
 
@@ -171,6 +171,6 @@ queuesight_project/
 Python · pandas · NumPy · scikit-learn · SciPy · joblib · Streamlit · Plotly · Matplotlib
 
 ## Team
-**[Team name]**: [Member 1], [Member 2]
+## Norah Ananya (Larpers.exe)
 
-*Built for DATATHON 2026 (Data Science Club, VIT-AP).*
+

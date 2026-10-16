@@ -1,0 +1,13 @@
+department_name,patients,avg_excess_min,actual_wait,z,confidence,impact_min,priority,driver_triage,driver_excess
+General Medicine,50,5.51,58.94,2.28,0.99,275.33,272.2,Critical,28.98
+Laboratory,60,3.91,61.83,1.77,0.96,234.44,225.5,Critical,10.19
+Emergency,54,2.96,53.5,1.28,0.9,160.05,143.9,Medium,7.13
+Outpatient,45,2.48,58.38,0.97,0.83,111.42,93.0,Critical,9.08
+Pharmacy,52,0.09,46.67,0.04,0.51,4.53,2.3,Low,1.5
+Surgery,65,0.01,47.75,0.01,0.5,0.83,0.4,Medium,2.29
+Admissions,53,0.01,43.45,0.0,0.5,0.58,0.3,Medium,2.02
+Cardiology,59,-3.61,45.63,-1.62,0.05,-212.75,0.0,Medium,-0.81
+Orthopedics,47,-0.4,51.74,-0.16,0.44,-18.64,0.0,Critical,17.82
+Neurology,56,-1.14,53.98,-0.5,0.31,-64.0,0.0,Low,3.03
+Pediatrics,48,-3.0,59.54,-1.22,0.11,-144.1,0.0,Critical,13.19
+Radiology,53,-0.18,54.4,-0.08,0.47,-9.79,0.0,Low,2.7

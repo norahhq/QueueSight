@@ -1,0 +1,29 @@
+{
+  "baseline_global_MAE": 19.74423043446891,
+  "baseline_triage_MAE": 14.291974413607676,
+  "baseline_dept_x_triage_MAE": 13.540403999516574,
+  "gbm_MAE": 13.55882434273914,
+  "gbm_R2": 0.5140671969621413,
+  "MAE_reduction_vs_global_pct": 31.32766360410516,
+  "interval_low": -27.239876604355533,
+  "interval_high": 28.484407309551337,
+  "interval_coverage_test": 0.8970476911430735,
+  "breach_rate_test": 0.5897047691143074,
+  "breach_AUC": 0.6779365162072672,
+  "breach_AP": 0.7327621532373347,
+  "permutation_importance_MAE_min": {
+    "triage_level": 10.104,
+    "department_id": 1.469,
+    "visit_type": -0.007,
+    "hour": -0.003,
+    "dept_prev_wait20": 0.034,
+    "dept_arrivals_prev24h": -0.015
+  },
+  "tests": {
+    "median_tat": 57.0,
+    "pct_over_120": 0.142,
+    "urgent_mean": 69.23360287511231,
+    "routine_mean": 69.84563931052226,
+    "urgent_pct_over_60": 0.46900269541778977
+  }
+}
